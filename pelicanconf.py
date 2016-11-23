@@ -20,7 +20,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 STATIC_PATHS=['images','pdfs']
-THEME='simple'
+THEME='../pelican-themes/pelican-bootstrap3/'
+
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -29,8 +30,26 @@ THEME='simple'
 #         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter','https://twitter.com/msinnl'),
+        ('github', 'http://github.com/msinnl'),
+        ('google scholar', 'https://scholar.google.at/citations?user=aaw54NIAAAAJ&hl=de&oi=ao','fa-google'),
+        ('ORCID','http://orcid.org/0000-0003-1439-8702'),
+        ('researchgate','https://www.researchgate.net/profile/Markus_Sinnl')
+      )
+
+DISPLAY_PAGES_ON_MENU = False
+
+MENUITEMS = (
+        ('About', '/'),
+        ('Publications', '/pages/publications.html'),
+        ('Instances/Codes', '/pages/instancescodes.html'),
+        ('Activities', '/pages/activities.html'),
+        ('Talks', '/pages/talks.html'),
+        ('Teaching', '/pages/teaching.html'),
+        )
+
+
+EMAIL = 'markus.sinnl (at) univie.ac.at'
 
 DEFAULT_PAGINATION = 10
 
