@@ -22,6 +22,8 @@ AUTHOR_FEED_RSS = None
 STATIC_PATHS=['images','pdfs']
 THEME='../pelican-themes/pelican-bootstrap3/'
 
+PLUGIN_PATHS = ['/home/markus/homepage/pelican-plugins']
+PLUGINS = ['render_math']
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),

@@ -2,6 +2,7 @@ Title: Talks
 
 **Talks**
 
+*   Interdiction Problems and Monotonicity, 21th Combinatorial Optimization Workshop, Aussois, France 2017
 *   Decomposition Approaches for Interdiction Problems, EURO 2016, Poznan, Poland, 2016
 *   On Interdiction Problems over Independence Systems, ISCO 2016, Salerno, Italy, 2016
 *   Intersection Cuts for Bilevel Optimization, IPCO 2016, Liege, Belgium, 2016

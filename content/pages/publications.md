@@ -2,6 +2,7 @@ Title: Publications
 
 **Journal Articles**
 
+*  E. Alvarez-Miranda and M. Sinnl, Lagrangian and Branch-and-Cut Approaches for Upgrading Spanning Tree Problems. *Computers and Operstions Research*, 2017, to appear [(technical report)][14]
 *  E. Alvarez-Miranda, I. Ljubic, M. Luipersbeck and M. Sinnl, Solving Minimum-Cost Shared Arborescence Problems, *European Journal of Operational Research*, 2016, to appear [(technical report)][1] 
 *  M. Fischetti, M. Leitner, I. Ljubic, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin and M. Sinnl, Thinning out Steiner trees: A node based model for uniform edge costs, *Mathematical Programming Computation*, 2016, to appear
 *  M. Leitner, I. Ljubic, J.J. Salzar Gonzalez and M. Sinnl, The connected facility location polytope, *Discrete Applied Mathematics*, 2016, to appear [(technical report)][2] 
@@ -29,6 +30,7 @@ Title: Publications
 
 **Submitted Articles**
 
+*  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. Submitted, 2017. [(technical report)][15]
 *  F. Furini, I. Ljubic and M. Sinnl, An Effective Dynamic Programming Algorithm for the Minimum-Cost Maximal Knapsack Packing. Submitted, 2016. [(technical report)][8]
 *  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Gotta (efficiently) catch them all: Pokemon GO meets Orienteering Problems. Submitted, 2016. [(technical report)][9]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. Submitted, 2016. [(technical report)][10]
@@ -36,17 +38,16 @@ Title: Publications
 *  M. Leitner, M. Luipersbeck, I. Ljubic and M. Sinnl, A dual-ascent-based branch-and-bound framework for the prize-collecting Steiner tree and related problems Submitted, 2016. [(technical report)][12]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Intersection Cuts for Bilevel Optimization. Submitted, 2016. 
 *  E. Alvarez-Miranda and M. Sinnl, A Relax-and-Cut Framework for Solving Large-Scale (Constrained) Maximum Weight Connected Subgraph Problems. Submitted, 2016. [(technical report)][13]
-*  E. Alvarez-Miranda and M. Sinnl, Lagrangian and Branch-and-Cut Approaches for Upgrading Spanning Tree Problems. Submitted, 2016. [(technical report)][14]
 
 **PhD Thesis**
 
-*  M. Sinnl, Bi-objective Network Design, University of Vienna, Departement of Statistics and Operations Research, August 2015. Supervised by I. Ljubic and I. Bomze
+*  M. Sinnl, Bi-objective Network Design, University of Vienna, Department of Statistics and Operations Research, August 2015. Supervised by I. Ljubic and I. Bomze
 
 **Master Thesis**
 
 *  M. Sinnl, Branch-and-price for the Steiner Tree Problem with Revenues, Budget and Hop Constraints, Vienna University of Technology, Institute of Computer Graphics and Algorithms, August 2011. Supervised by G. Raidl and M. Leitner
 
-[1]: ../pdfs/MKLSTP-main.pdf) 
+[1]: ../pdfs/MKLSTP-main.pdf 
 [2]: ../pdfs/CFLP-theory-techreport.pdf
 [3]: ../pdfs/neuro-techreport.pdf
 [4]: ../pdfs/STPRBH-techreport.pdf
@@ -60,3 +61,4 @@ Title: Publications
 [12]: ../pdfs/da-TR.pdf
 [13]: ../pdfs/LMWCS-techreport.pdf
 [14]: ../pdfs/UMST-techreport.pdf
+[15]: ../pdfs/biheur-techreport.pdf
