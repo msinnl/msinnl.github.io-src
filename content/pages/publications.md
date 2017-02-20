@@ -2,13 +2,14 @@ Title: Publications
 
 **Journal Articles**
 
-*  E. Alvarez-Miranda and M. Sinnl, Lagrangian and Branch-and-Cut Approaches for Upgrading Spanning Tree Problems. *Computers and Operstions Research*, 2017, to appear [(technical report)][14]
-*  E. Alvarez-Miranda, I. Ljubic, M. Luipersbeck and M. Sinnl, Solving Minimum-Cost Shared Arborescence Problems, *European Journal of Operational Research*, 2016, to appear [(technical report)][1] 
-*  M. Fischetti, M. Leitner, I. Ljubic, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin and M. Sinnl, Thinning out Steiner trees: A node based model for uniform edge costs, *Mathematical Programming Computation*, 2016, to appear
-*  M. Leitner, I. Ljubic, J.J. Salzar Gonzalez and M. Sinnl, The connected facility location polytope, *Discrete Applied Mathematics*, 2016, to appear [(technical report)][2] 
+*  M. Leitner, I. Ljubic, J.J. Salzar-Gonzalez and M. Sinnl, An Algorithmic Framework for the Exact Solution of Tree-Star Problems, *European Journal of Operational Research*, 2017, to appear [(technical report)][16] 
+*  E. Alvarez-Miranda and M. Sinnl, Lagrangian and Branch-and-Cut Approaches for Upgrading Spanning Tree Problems. *Computers and Operations Research*, 2017, to appear [(technical report)][14]
+*  E. Alvarez-Miranda, I. Ljubic, M. Luipersbeck and M. Sinnl, Solving Minimum-Cost Shared Arborescence Problems, *European Journal of Operational Research*, 258(3): 887-901, 2016 [(technical report)][1] 
+*  M. Fischetti, M. Leitner, I. Ljubic, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin and M. Sinnl, Thinning out Steiner trees: A node based model for uniform edge costs, *Mathematical Programming Computation*, 2016, to appear [(technical report)][17]
+*  M. Leitner, I. Ljubic, J.J. Salzar-Gonzalez and M. Sinnl, The connected facility location polytope, *Discrete Applied Mathematics*, 2016, to appear [(technical report)][2] 
 *  E. Alvarez-Miranda, H. Farhan, M. Luipersbeck and M. Sinnl, A bi-objective network design approach for discovering functional modules linking Golgi apparatus fragmentation and neuronal death. *Annals of Operations Research*, 2016, to appear [(technical report)][3] 
 *  M. Fischetti, I. Ljubic and M. Sinnl, Benders decomposition without separability: A computational study for capacitated facility location problems. *European Journal of Operational Research*, 253(3): 557-569, 2016
-*  M. Sinnl and I. Ljubic, A Node-Based Layered Graph Approach for the Steiner Tree Problem with Revenues, Budget and Hop-Constraints. *Mathematical Programming Computation*, 2016, to appear [(technical report)][4] 
+*  M. Sinnl and I. Ljubic, A Node-Based Layered Graph Approach for the Steiner Tree Problem with Revenues, Budget and Hop-Constraints. *Mathematical Programming Computation*, 8(4), 461-490, 2016, [(technical report)][4] 
 *  M. Fischetti, I. Ljubic and M. Sinnl, Redesigning Benders Decomposition for Large Scale Facility Location. *Management Science*, 2016, to appear [(technical report)][5] 
 *  M. Leitner, I. Ljubic, M. Sinnl and A. Werner, ILP heuristics and a new exact method for bi-objective 0/1 ILPs: Application to FTTx-network design. *Computers and Operations Research*, Volume 72, 128-146, 2016 [(technical report)][6]
 *  E. Alvarez-Miranda, H. Farhan, and M. Sinnl, Alteration of Golgi structure by stress: a link to neurodegeneration?. *Frontiers in Neuroscience*, Volume 9, 2015
@@ -16,11 +17,11 @@ Title: Publications
 
 **Refereed Conference Proceedings**
 
-*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Intersection Cuts for Bilevel Optimization. *Proceedings of IPCO 2016*, LNCS, to appear 
-*  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Optimal Upgrading Schemes for Effective Shortest Paths in Networks. *Proceedings of CPAIOR 2016*, LNCS, to appear [(technical report)][7] 
-*  F. Furini, I. Ljubic, and M. Sinnl, ILP and CP Formulations for the Lazy Bureaucrat Problem. *Proceedings of CPAIOR 2015*, LNCS, Springer, 2015
-*  M. Leitner, I. Ljubic, J.J. Salzar Gonzalez and M. Sinnl, On the asymmetric connected facility location polytope. *Proceedings of ISCO 2014*, LNCS, Springer, 2014
-*  M. Leitner, I. Ljubic, and M. Sinnl. Solving the bi-objective prize-collecting Steiner tree problem with the -constraint method. *Proceedings of INOC 2013, volume 41 of ENDM*, pages 181-188, Elsevier, 2013.
+*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Intersection Cuts for Bilevel Optimization. *Proceedings of IPCO 2016*, LNCS, Volume 9682, 77-88, Springer, 2016 [(technical report)][18] 
+*  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Optimal Upgrading Schemes for Effective Shortest Paths in Networks. *Proceedings of CPAIOR 2016*, LNCS, Volume 9676, 406-420, Springer, 2016 [(technical report)][7] 
+*  F. Furini, I. Ljubic, and M. Sinnl, ILP and CP Formulations for the Lazy Bureaucrat Problem. *Proceedings of CPAIOR 2015*, LNCS, Volume 9075, 255-270, Springer, 2015
+*  M. Leitner, I. Ljubic, J.J. Salzar-Gonzalez and M. Sinnl, On the asymmetric connected facility location polytope. *Proceedings of ISCO 2014*, LNCS, Volume 8596, 371-383, Springer, 2014
+*  M. Leitner, I. Ljubic, and M. Sinnl. Solving the bi-objective prize-collecting Steiner tree problem with the epsilon-constraint method. *Proceedings of INOC 2013, volume 41 of ENDM*, pages 181-188, Elsevier, 2013.
 *  M. Leitner, I. Ljubic, M. Sinnl, and A. Werner. On the two-architecture connected facility location problem. *Proceedings of INOC 2013, volume 41 of ENDM*, pages 359-366, Elsevier, 2013.
 
 **Other Articles**
@@ -62,3 +63,6 @@ Title: Publications
 [13]: ../pdfs/LMWCS-techreport.pdf
 [14]: ../pdfs/UMST-techreport.pdf
 [15]: ../pdfs/biheur-techreport.pdf
+[16]: ../pdfs/thinning-final-techreport.pdf
+[17]: ../pdfs/ymodel_techreport.pdf
+[18]: ../pdfs/IPCO_techreport.pdf
