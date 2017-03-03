@@ -16,7 +16,7 @@ by Matteo Fischetti, Ivana Ljubic, Michele Monaci and Markus Sinnl.
 * Click [here][1] to download the instances based on MIPlib instances 
 * Click [here][2] to download the instances based on multidimensional knapsack instances
 * Click [here][3] to download the instance sets *LKIP, LCIP, GEN, TRSC+* 
-* Click [here][6] to download the instance sets *XUWANG, XUWANGLARGE*
+* Click [here][6] to download the instance sets *INTER-FIRE, XUWANG, XUWANG-LARGE*
 
 The format of the instances is following the format of the open-source solver [MibS][4], see also [here][5]
 

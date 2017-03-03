@@ -2,6 +2,7 @@ Title: Talks
 
 **Talks**
 
+*   Optimal Design of Nature Reserves Considering Connectivity and Buffer Zones, INOC 2017, Lisbon, Portugal, 2017	
 *   Interdiction Problems and Monotonicity, 21th Combinatorial Optimization Workshop, Aussois, France, 2017
 *   Decomposition Approaches for Interdiction Problems, EURO 2016, Poznan, Poland, 2016
 *   On Interdiction Problems over Independence Systems, ISCO 2016, Salerno, Italy, 2016
@@ -17,10 +18,11 @@ Title: Talks
 *   The bi-objective prize-collecting Steiner tree problem, EURO-INFORMS 2013, Rome, Italy, 2013 
 *   The bi-objective prize-collecting Steiner tree problem, INOC 2013, Tenerife, Spain, 2013 
 *   The bi-objective prize-collecting Steiner tree problem, Workshop on Optimization Tools for Next Generation Telecommunication Networks, Vienna, Austria, 2013
+*   The bi-objective prize-collecting Steiner tree problem, FRICO 2012, Berlin, Germany, 2012
 
 **Poster presentations/Participation/etc**
 
 *   20th Combinatorial Optimization Workshop, Aussois, France, 2016
 *   Steiner Trees thinned out, 2015 Mixed Integer Programming Workshop, Chicago, USA, 2015 
 *   19th Combinatorial Optimization Workshop, Aussois, France, 2015 
-*   21st International Symposium on Mathematical Programming, Berlin, Germany, 2012
+*   21st ISMP, Berlin, Germany, 2012
