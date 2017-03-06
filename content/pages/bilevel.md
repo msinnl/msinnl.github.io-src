@@ -13,15 +13,15 @@ by Matteo Fischetti, Ivana Ljubic, Michele Monaci and Markus Sinnl.
 
 ## Solver for Mixed-Integer Bilevel Linear Problems
 
-The intersection-cuts based solver for Mixed-Integer Bilevel Linear Problems 
-described in the first two publications mentioned above can be downloaded by [clicking here][11].
+The intersection-cut based solver for Mixed-Integer Bilevel Linear Problems 
+(described in the first two publications mentioned above) can be downloaded by [clicking here][11].
 
 The solver is provided as binary compiled under Ubuntu 14.04 64bit with g++ 4.8.4 using CPLEX 12.7. 
 It needs dynamic CPLEX libraries, which need to be generated manually by the user. 
 The procedure is as following:
 
-1. Set the environment variable CPLEX_DIR to the base directory of the CPLEX installation on your system (e.g., /opt/ibm/ILOG/CPLEX_Studio127). 
-2. Run the script *make_cplex_dynamic.sh* provided with the binary to create the dynamic CPLEX library files libconcert.so, libcplex.so and libilocplex.so. 
+1. In the script *make_cplex_dynamic.sh* provided with the binary set the environment variable CPLEX_DIR to the base directory of the CPLEX installation on your system (e.g., /opt/ibm/ILOG/CPLEX_Studio127). 
+2. Run the resulting script *make_cplex_dynamic.sh* to create the dynamic CPLEX library files libconcert.so, libcplex.so and libilocplex.so. 
 3. Put the generated dynamic libraries in the folder where the binary *bilevel* is.
 
 The solver can be run as, e.g., 
