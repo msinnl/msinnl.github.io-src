@@ -7,9 +7,14 @@ Currently, I am part of the project [Network Optimization in Bioinformatics and 
 
 My research interests include:
 
-* (Nonlinear) Mixed-Integer Programming
-* multi-objective optimization
-* application of above techniques to real-world problems
+* Theoretical and Computational Aspects of Mixed Integer (Non-)Linear Programming
+* Decomposition Methods for Mixed Integer (Non-)Linear Programming
+* Bilevel Programming
+* Combinatorial Optimization
+* Bi-and Multi-Objective Optimization
+* Robust and Stochastic Optimization
+* Matheuristics
+* Areas of Application:  Network Design, Telecommunications, Systems Biology, ...
 
 To download problem instances, program codes, results, etc., associated with papers I was involved in, please click [here][5] 
 
