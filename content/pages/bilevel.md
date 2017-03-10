@@ -5,6 +5,7 @@ save_as: pages/bilevel.html
 This site contains accompanying material to the papers
 
 > * [Intersection Cuts for Bilevel Optimization][7]  
+> * [Intersection Cuts for Bilevel Optimization (journal version)][13]  
 > * [A new general-purpose algorithm for mixed-integer bilevel linear programs][8]  
 > * [Interdiction Games and Monotonicity][9]  
 > * [A dynamic reformulation heuristic for Generalized Interdiction Problems][10]  
@@ -14,7 +15,7 @@ by Matteo Fischetti, Ivana Ljubic, Michele Monaci and Markus Sinnl.
 ## Solver for Mixed-Integer Bilevel Linear Problems
 
 The intersection-cut based solver for Mixed-Integer Bilevel Linear Problems 
-(described in the first two publications mentioned above) can be downloaded by [clicking here][11].
+(described in the first three publications mentioned above) can be downloaded by [clicking here][11].
 To use the solver, a **license file** must be requested from the authors, request it by [clicking here][12]
 
 The solver is provided as binary compiled under Ubuntu 14.04 64bit with g++ 4.8.4 using CPLEX 12.7. 
@@ -57,3 +58,4 @@ The format of the instances is following the format of the open-source solver [M
 [10]: ../pdfs/biheur-techreport.pdf
 [11]: https://drive.google.com/open?id=0B1mYs4TT6IFMMVRoUm5yaXBETE0
 [12]: mailto:markus.sinnl@univie.ac.at?subject=[BILEVEL]%20License%20Key%20Request&cc=m.fischetti@gmail.com,ivana.ljubic@essec.edu,michele.monaci@unibo.it
+[13]: ../pdfs/MPBjournal-techreport.pdf
