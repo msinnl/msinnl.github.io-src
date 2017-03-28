@@ -2,6 +2,7 @@ Title: Publications
 
 **Journal Articles**
 
+*  F. Furini, I. Ljubic and M. Sinnl, An Effective Dynamic Programming Algorithm for the Minimum-Cost Maximal Knapsack Packing, *European Journal of Operational Research*, 2017, to appear  [(technical report)][8]
 *  M. Leitner, I. Ljubic, J.J. Salzar-Gonzalez and M. Sinnl, An Algorithmic Framework for the Exact Solution of Tree-Star Problems, *European Journal of Operational Research*, 2017, to appear [(technical report)][16] 
 *  E. Alvarez-Miranda and M. Sinnl, Lagrangian and Branch-and-Cut Approaches for Upgrading Spanning Tree Problems. *Computers and Operations Research*, 2017, to appear [(technical report)][14]
 *  E. Alvarez-Miranda, I. Ljubic, M. Luipersbeck and M. Sinnl, Solving Minimum-Cost Shared Arborescence Problems, *European Journal of Operational Research*, 258(3): 887-901, 2016 [(technical report)][1] 
@@ -32,7 +33,6 @@ Title: Publications
 **Submitted Articles**
 
 *  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. Submitted, 2017. [(technical report)][15]
-*  F. Furini, I. Ljubic and M. Sinnl, An Effective Dynamic Programming Algorithm for the Minimum-Cost Maximal Knapsack Packing. Submitted, 2016. [(technical report)][8]
 *  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Gotta (efficiently) catch them all: Pokemon GO meets Orienteering Problems. Submitted, 2016. [(technical report)][9]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. Submitted, 2016. [(technical report)][10]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, A new general-purpose algorithm for mixed-integer bilevel linear programs. Submitted, 2016. [(technical report)][11]
