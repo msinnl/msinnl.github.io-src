@@ -10,10 +10,13 @@ Title: Activities
 *  F. Furini, LAMSADE, University Paris Dauphine, Paris, France, September 2014
 *  M. Fischetti, M. Monaci, D. Salvagnin, DEI, University of Padua, Padua, Italy, August 2014
 *  M. Fischetti, M. Monaci, D. Salvagnin, DEI, University of Padua, Padua, Italy, April 2014
-*  J.J. Salzar Gonzalez, University La Laguna, Tenerife, Spain, December 2012
+*  J.J. Salazar Gonzalez, University La Laguna, Tenerife, Spain, December 2012
 
 ** Reviewer **
 
+*   Annals of Operations Research
+*   Applied Computing and Informatics
+*   Central European Journal of Operations Research
 *   Computational Optimization and Applications
 *   European Journal of Operational Research
 *   Expert Systems with Applications
@@ -23,6 +26,9 @@ Title: Activities
 *   Mathematical Methods of Operations Research
 *   Mathematical Programming Computation
 *   Naval Research Logistics
+*   Networks
+*   Omega
 *   Operations Research
+*   RAIRO
 *   Systems Science and Control Engineering
 *   Yugoslav Journal of Operations Research
