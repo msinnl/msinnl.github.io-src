@@ -2,6 +2,7 @@ Title: Publications
 
 **Journal Articles**
 
+*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, A new general-purpose algorithm for mixed-integer bilevel linear programs. *Operations Research*, 2017, to appear, [(technical report)][11]
 *  F. Furini, I. Ljubic and M. Sinnl, An Effective Dynamic Programming Algorithm for the Minimum-Cost Maximal Knapsack Packing, *European Journal of Operational Research*, 2017, to appear  [(technical report)][8]
 *  M. Leitner, I. Ljubic, J.J. Salzar-Gonzalez and M. Sinnl, An Algorithmic Framework for the Exact Solution of Tree-Star Problems, *European Journal of Operational Research*, 2017, to appear [(technical report)][16] 
 *  E. Alvarez-Miranda and M. Sinnl, Lagrangian and Branch-and-Cut Approaches for Upgrading Spanning Tree Problems. *Computers and Operations Research*, 2017, to appear [(technical report)][14]
@@ -35,7 +36,6 @@ Title: Publications
 *  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. Submitted, 2017. [(technical report)][15]
 *  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Gotta (efficiently) catch them all: Pokemon GO meets Orienteering Problems. Submitted, 2016. [(technical report)][9]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. Submitted, 2016. [(technical report)][10]
-*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, A new general-purpose algorithm for mixed-integer bilevel linear programs. Submitted, 2016. [(technical report)][11]
 *  M. Leitner, M. Luipersbeck, I. Ljubic and M. Sinnl, A dual-ascent-based branch-and-bound framework for the prize-collecting Steiner tree and related problems Submitted, 2016. [(technical report)][12]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Intersection Cuts for Bilevel Optimization. Submitted, 2016. 
 *  E. Alvarez-Miranda and M. Sinnl, A Relax-and-Cut Framework for Solving Large-Scale (Constrained) Maximum Weight Connected Subgraph Problems. Submitted, 2016. [(technical report)][13]
