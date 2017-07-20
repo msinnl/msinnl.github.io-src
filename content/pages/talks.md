@@ -2,6 +2,7 @@ Title: Talks
 
 **Talks**
 
+*   A decomposition framework for the two-stage stochastic Steiner tree problem, IFORS 2017, Quebec City, Canada, 2017
 *   A general-purpose solution framework for mixed-integer bilevel linear problems, IMA 2017, Birmingham, UK, 2017
 *   Optimal Design of Nature Reserves Considering Connectivity and Buffer Zones, INOC 2017, Lisbon, Portugal, 2017	
 *   Interdiction Problems and Monotonicity, 21th Combinatorial Optimization Workshop, Aussois, France, 2017
