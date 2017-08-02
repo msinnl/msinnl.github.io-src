@@ -34,6 +34,7 @@ Title: Publications
 
 **Submitted Articles**
 
+*  E. Alvarez-Miranda and M. Sinnl, A Branch-and-Cut Algorithm for the Maximum Covering Cycle Problem. Submitted, 2017. [(technical report)][20]
 *  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, Decomposition methods for the two-stage stochastic Steiner tree problem. Submitted, 2017. [(technical report)][19]
 *  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. Submitted, 2017. [(technical report)][15]
 *  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Gotta (efficiently) catch them all: Pokemon GO meets Orienteering Problems. Submitted, 2016. [(technical report)][9]
@@ -68,3 +69,4 @@ Title: Publications
 [17]: ../pdfs/ymodel_techreport.pdf
 [18]: ../pdfs/IPCO_techreport.pdf
 [19]: ../pdfs/sstp.pdf
+[20]: ../pdfs/mccp-techreport.pdf
