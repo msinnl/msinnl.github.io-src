@@ -2,18 +2,20 @@ Title: Publications
 
 **Journal Articles**
 
-*  E. Alvarez-Miranda and M. Sinnl, A Relax-and-Cut Framework for Solving Large-Scale Maximum Weight Connected Subgraph Problems. *Computers and Operations Research*, 2017, to appear, [(technical report)][13]
+*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Intersection Cuts for Bilevel Optimization. *Mathematical Programming*, 2017, to appear. 
+*  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Gotta (efficiently) catch them all: Pokemon GO meets Orienteering Problems. *European Journal of Operational Research*, 2017, to appear, [(technical report)][9]
+*  E. Alvarez-Miranda and M. Sinnl, A Relax-and-Cut Framework for Solving Large-Scale Maximum Weight Connected Subgraph Problems. *Computers and Operations Research*, 87:63-82, 2017,[(technical report)][13]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, A new general-purpose algorithm for mixed-integer bilevel linear programs. *Operations Research*, 2017, to appear, [(technical report)][11]
-*  F. Furini, I. Ljubic and M. Sinnl, An Effective Dynamic Programming Algorithm for the Minimum-Cost Maximal Knapsack Packing, *European Journal of Operational Research*, 2017, to appear  [(technical report)][8]
-*  M. Leitner, I. Ljubic, J.J. Salazar-Gonzalez and M. Sinnl, An Algorithmic Framework for the Exact Solution of Tree-Star Problems, *European Journal of Operational Research*, 2017, to appear [(technical report)][16] 
-*  E. Alvarez-Miranda and M. Sinnl, Lagrangian and Branch-and-Cut Approaches for Upgrading Spanning Tree Problems. *Computers and Operations Research*, 2017, to appear [(technical report)][14]
+*  F. Furini, I. Ljubic and M. Sinnl, An Effective Dynamic Programming Algorithm for the Minimum-Cost Maximal Knapsack Packing Problem, *European Journal of Operational Research*, 262(2):438-44, 2017, [(technical report)][8]
+*  M. Leitner, I. Ljubic, J.J. Salazar-Gonzalez and M. Sinnl, An Algorithmic Framework for the Exact Solution of Tree-Star Problems, *European Journal of Operational Research*, 261(1):54-66, 2017, [(technical report)][16] 
+*  E. Alvarez-Miranda and M. Sinnl, Lagrangian and Branch-and-Cut Approaches for Upgrading Spanning Tree Problems. *Computers and Operations Research*, 83:13-27, 2017 [(technical report)][14]
 *  E. Alvarez-Miranda, I. Ljubic, M. Luipersbeck and M. Sinnl, Solving Minimum-Cost Shared Arborescence Problems, *European Journal of Operational Research*, 258(3): 887-901, 2016 [(technical report)][1] 
-*  M. Fischetti, M. Leitner, I. Ljubic, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin and M. Sinnl, Thinning out Steiner trees: A node based model for uniform edge costs, *Mathematical Programming Computation*, 2016, to appear [(technical report)][17]
+*  M. Fischetti, M. Leitner, I. Ljubic, M. Luipersbeck, M. Monaci, M. Resch, D, Salvagnin and M. Sinnl, Thinning out Steiner trees: A node based model for uniform edge costs, *Mathematical Programming Computation*, 9(2):203-229, 2017, [(technical report)][17]
 *  M. Leitner, I. Ljubic, J.J. Salazar-Gonzalez and M. Sinnl, The connected facility location polytope, *Discrete Applied Mathematics*, 2016, to appear [(technical report)][2] 
 *  E. Alvarez-Miranda, H. Farhan, M. Luipersbeck and M. Sinnl, A bi-objective network design approach for discovering functional modules linking Golgi apparatus fragmentation and neuronal death. *Annals of Operations Research*, 2016, to appear [(technical report)][3] 
 *  M. Fischetti, I. Ljubic and M. Sinnl, Benders decomposition without separability: A computational study for capacitated facility location problems. *European Journal of Operational Research*, 253(3): 557-569, 2016
 *  M. Sinnl and I. Ljubic, A Node-Based Layered Graph Approach for the Steiner Tree Problem with Revenues, Budget and Hop-Constraints. *Mathematical Programming Computation*, 8(4), 461-490, 2016, [(technical report)][4] 
-*  M. Fischetti, I. Ljubic and M. Sinnl, Redesigning Benders Decomposition for Large Scale Facility Location. *Management Science*, 2016, to appear [(technical report)][5] 
+*  M. Fischetti, I. Ljubic and M. Sinnl, Redesigning Benders Decomposition for Large Scale Facility Location. *Management Science*, 63(7):2146-2162, 2017, [(technical report)][5] 
 *  M. Leitner, I. Ljubic, M. Sinnl and A. Werner, ILP heuristics and a new exact method for bi-objective 0/1 ILPs: Application to FTTx-network design. *Computers and Operations Research*, Volume 72, 128-146, 2016 [(technical report)][6]
 *  E. Alvarez-Miranda, H. Farhan, and M. Sinnl, Alteration of Golgi structure by stress: a link to neurodegeneration?. *Frontiers in Neuroscience*, Volume 9, 2015
 *  M. Leitner, I. Ljubic, and M. Sinnl. A computational study of exact approaches for the bi-objective prize-collecting Steiner tree problem.  *INFORMS Journal on Computing*, Volume 27, Issue 1, pages 118-134, 2014
@@ -37,10 +39,8 @@ Title: Publications
 *  E. Alvarez-Miranda and M. Sinnl, A Branch-and-Cut Algorithm for the Maximum Covering Cycle Problem. Submitted, 2017. [(technical report)][20]
 *  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, Decomposition methods for the two-stage stochastic Steiner tree problem. Submitted, 2017. [(technical report)][19]
 *  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. Submitted, 2017. [(technical report)][15]
-*  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Gotta (efficiently) catch them all: Pokemon GO meets Orienteering Problems. Submitted, 2016. [(technical report)][9]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. Submitted, 2016. [(technical report)][10]
 *  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, A dual-ascent-based branch-and-bound framework for the prize-collecting Steiner tree and related problems Submitted, 2016. [(technical report)][12]
-*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Intersection Cuts for Bilevel Optimization. Submitted, 2016. 
 
 **PhD Thesis**
 
