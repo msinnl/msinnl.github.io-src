@@ -2,8 +2,10 @@ Title: About me
 URL:
 save_as: index.html
 
-I am a PostDoc at the [Department for Statistics and Operations Research][2], [Faculty of Business, Economics and Statistics] [3] at the [University of Vienna][2].
-Currently, I am part of the project [Network Optimization in Bioinformatics and Systems Biology][1].
+Currently, I am a researcher at [INRIA Lille-Nord Europe][6], working in the team [INOCS][7].
+
+Previously, I was a PostDoc at the [Department for Statistics and Operations Research][2], [Faculty of Business, Economics and Statistics] [3] at the [University of Vienna][2].
+There, I was part of the project [Network Optimization in Bioinformatics and Systems Biology][1].
 
 My research interests include:
 
@@ -30,3 +32,5 @@ To download problem instances, program codes, results, etc., associated with pap
 [3]: http://wirtschaftswissenschaften.univie.ac.at
 [4]: http://www.univie.ac.at
 [5]: pages/instancescodes.html
+[6]: https://www.inria.fr/en/centre/lille
+[7]: https://team.inria.fr/inocs/

@@ -12,6 +12,7 @@ This pages is an overview page, which links to various program codes (source and
 * [Dual Ascent-based Solution Framework for the Prize-Collecting Steiner Tree Problem and Related Problems][6]
 * [Generalized Clustered Orienteering Problem][7]
 * [Relax-and-Cut for Maximum Weight Connected Subgraph Problems][8]
+* [Stochastic Steiner tree problem][9]
 
 [1]: ../pages/stprbh.html
 [2]: ../pages/fl.html
@@ -21,3 +22,4 @@ This pages is an overview page, which links to various program codes (source and
 [6]: https://github.com/mluipersbeck/dapcstp
 [7]: ../pages/gcop.html
 [8]: ../pages/rcmwcs.html
+[9]: ../pages/sstp.html
