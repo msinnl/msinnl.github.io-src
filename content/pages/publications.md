@@ -2,6 +2,8 @@ Title: Publications
 
 **Journal Articles**
 
+*  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, Decomposition methods for the two-stage stochastic Steiner tree problem. *Computational Optimization and Applications*, to appear, 2017. [(technical report)][19]
+*  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. *European Journal of Operational Research*, to appear, 2017. [(technical report)][15]
 *  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, A dual-ascent-based branch-and-bound framework for the prize-collecting Steiner tree and related problems. *INFORMS Journal on Computing*, 2017, to appear, [(technical report)][12]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Intersection Cuts for Bilevel Optimization. *Mathematical Programming*, 2017, to appear. 
 *  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Gotta (efficiently) catch them all: Pokemon GO meets Orienteering Problems. *European Journal of Operational Research*, 2017, to appear, [(technical report)][9]
@@ -38,8 +40,6 @@ Title: Publications
 **Submitted Articles**
 
 *  E. Alvarez-Miranda and M. Sinnl, A Branch-and-Cut Algorithm for the Maximum Covering Cycle Problem. Submitted, 2017. [(technical report)][20]
-*  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, Decomposition methods for the two-stage stochastic Steiner tree problem. Submitted, 2017. [(technical report)][19]
-*  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. Submitted, 2017. [(technical report)][15]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. Submitted, 2016. [(technical report)][10]
 
 **PhD Thesis**
