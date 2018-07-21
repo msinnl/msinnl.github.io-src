@@ -2,10 +2,10 @@ Title: About me
 URL:
 save_as: index.html
 
-Currently, I am a researcher at [INRIA Lille-Nord Europe][6], working in the team [INOCS][7].
+Currently, I am a PostDoc at the [Department for Statistics and Operations Research][2], [Faculty of Business, Economics and Statistics] [3] at the [University of Vienna][2].
+There, I am part of the project [Network Optimization in Bioinformatics and Systems Biology][1].
 
-Previously, I was a PostDoc at the [Department for Statistics and Operations Research][2], [Faculty of Business, Economics and Statistics] [3] at the [University of Vienna][2].
-There, I was part of the project [Network Optimization in Bioinformatics and Systems Biology][1].
+Previously, I worked as a researcher at [INRIA Lille-Nord Europe][6] in the team [INOCS][7].
 
 My research interests include:
 

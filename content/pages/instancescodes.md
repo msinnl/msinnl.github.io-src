@@ -14,6 +14,8 @@ This pages is an overview page, which links to various program codes (source and
 * [Relax-and-Cut for Maximum Weight Connected Subgraph Problems][8]
 * [Stochastic Steiner tree problem][9]
 * [Minimum Cost Dominating Tree Problem][10]
+* [Upgrading Spanning Tree Problem][11]
+* [Tree t-spanner Problem][12]
 
 [1]: ../pages/stprbh.html
 [2]: ../pages/fl.html
@@ -25,3 +27,5 @@ This pages is an overview page, which links to various program codes (source and
 [8]: ../pages/rcmwcs.html
 [9]: ../pages/sstp.html
 [10]: ../pages/domtree.html
+[11]: ../pages/umst.html
+[12]: ../pages/tspan.html

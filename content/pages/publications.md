@@ -2,13 +2,17 @@ Title: Publications
 
 **Journal Articles**
 
-*  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, Decomposition methods for the two-stage stochastic Steiner tree problem. *Computational Optimization and Applications*, to appear, 2017. [(technical report)][19]
-*  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. *European Journal of Operational Research*, to appear, 2017. [(technical report)][15]
-*  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, A dual-ascent-based branch-and-bound framework for the prize-collecting Steiner tree and related problems. *INFORMS Journal on Computing*, 2017, to appear, [(technical report)][12]
+*  E. Alvarez-Miranda and M. Sinnl, A Branch-and-Cut Algorithm for the Maximum Covering Cycle Problem. *Annals of Operations Research*, 2018, online first. [(technical report)][20]
+*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. *INFORMS Journal on Computing*, 2018, to appear. [(technical report)][10]
+*  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, An exact solution framework for the minimum cost dominating tree problem. *Optimization Letters*, 2018, online first [(technical report)][21] 
+*  R. Fritze, A. Graser and M. Sinnl, Combining spatial information and optimization for locating emergency medical service stations: A case study for Lower Austria, *International Journal of Medical Informatics*, 111:24-36, 2018
+*  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, Decomposition methods for the two-stage stochastic Steiner tree problem. *Computational Optimization and Applications*, 69(3):713-752, 2017. [(technical report)][19]
+*  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. *European Journal of Operational Research*, 267(1):40-51, 2018, [(technical report)][15]
+*  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, A dual-ascent-based branch-and-bound framework for the prize-collecting Steiner tree and related problems. *INFORMS Journal on Computing*, 30(2):402-420, 2018, [(technical report)][12]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Intersection Cuts for Bilevel Optimization. *Mathematical Programming*, 2017, to appear. 
-*  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Gotta (efficiently) catch them all: Pokemon GO meets Orienteering Problems. *European Journal of Operational Research*, 2017, to appear, [(technical report)][9]
-*  E. Alvarez-Miranda and M. Sinnl, A Relax-and-Cut Framework for Solving Large-Scale Maximum Weight Connected Subgraph Problems. *Computers and Operations Research*, 87:63-82, 2017,[(technical report)][13]
-*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, A new general-purpose algorithm for mixed-integer bilevel linear programs. *Operations Research*, 2017, to appear, [(technical report)][11]
+*  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Gotta (efficiently) catch them all: Pokemon GO meets Orienteering Problems. *European Journal of Operational Research*, 265(2):779-794, 2017 [(technical report)][9]
+*  E. Alvarez-Miranda and M. Sinnl, A Relax-and-Cut Framework for Solving Large-Scale Maximum Weight Connected Subgraph Problems. *Computers and Operations Research*, 87:63-82, 2017, [(technical report)][13]
+*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, A new general-purpose algorithm for mixed-integer bilevel linear programs. *Operations Research*, 65(6):1615-1637, 2017, [(technical report)][11]
 *  F. Furini, I. Ljubic and M. Sinnl, An Effective Dynamic Programming Algorithm for the Minimum-Cost Maximal Knapsack Packing Problem, *European Journal of Operational Research*, 262(2):438-44, 2017, [(technical report)][8]
 *  M. Leitner, I. Ljubic, J.J. Salazar-Gonzalez and M. Sinnl, An Algorithmic Framework for the Exact Solution of Tree-Star Problems, *European Journal of Operational Research*, 261(1):54-66, 2017, [(technical report)][16] 
 *  E. Alvarez-Miranda and M. Sinnl, Lagrangian and Branch-and-Cut Approaches for Upgrading Spanning Tree Problems. *Computers and Operations Research*, 83:13-27, 2017 [(technical report)][14]
@@ -39,8 +43,8 @@ Title: Publications
 
 **Submitted Articles**
 
-*  E. Alvarez-Miranda and M. Sinnl, A Branch-and-Cut Algorithm for the Maximum Covering Cycle Problem. Submitted, 2017. [(technical report)][20]
-*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. Submitted, 2016. [(technical report)][10]
+*  E. Alvarez-Miranda and M. Sinnl, A note on computational aspects of the Steiner traveling salesman problem, [(technical report)][22]
+*  E. Alvarez-Miranda and M. Sinnl, Mixed-Integer Programming Approaches for the Tree t-spanner Problem, [(technical report)][23]
 
 **PhD Thesis**
 
@@ -70,3 +74,6 @@ Title: Publications
 [18]: ../pdfs/IPCO_techreport.pdf
 [19]: ../pdfs/sstp.pdf
 [20]: ../pdfs/mccp-techreport.pdf
+[21]: ../pdfs/domtree-techreport.pdf
+[22]: ../pdfs/stsp-techreport.pdf
+[23]: ../pdfs/tspan-techreport.pdf
