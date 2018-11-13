@@ -2,6 +2,8 @@ Title: Publications
 
 **Journal Articles**
 
+*  E. Alvarez-Miranda and M. Sinnl, A note on computational aspects of the Steiner traveling salesman problem, *International Transactions in Operations Research*, 2018, online first, [(technical report)][22]
+*  E. Alvarez-Miranda and M. Sinnl, Mixed-Integer Programming Approaches for the Tree t-spanner Problem, *Optimization Letters*, 2018, online first, [(technical report)][23]
 *  E. Alvarez-Miranda and M. Sinnl, A Branch-and-Cut Algorithm for the Maximum Covering Cycle Problem. *Annals of Operations Research*, 2018, online first. [(technical report)][20]
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. *INFORMS Journal on Computing*, 2018, to appear. [(technical report)][10]
 *  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, An exact solution framework for the minimum cost dominating tree problem. *Optimization Letters*, 2018, online first [(technical report)][21] 
@@ -43,8 +45,9 @@ Title: Publications
 
 **Submitted Articles**
 
-*  E. Alvarez-Miranda and M. Sinnl, A note on computational aspects of the Steiner traveling salesman problem, [(technical report)][22]
-*  E. Alvarez-Miranda and M. Sinnl, Mixed-Integer Programming Approaches for the Tree t-spanner Problem, [(technical report)][23]
+* M. Sinnl, Algorithmic expedients for the S-labeling problem, 2018 [(technical report)][24]
+* E. Alvarez-Miranda and M. Sinnl, An exact solution framework for the multiple gradual cover location problem, 2018 [(technical report)][25]
+* E. Alvarez-Miranda, M. Goycoleea, I. Ljubic and M. Sinnl, The Generalized Reserve Set Covering Problem with Connectivity and Buffer Requirements, 2018 [(technical report)][26]
 
 **PhD Thesis**
 
@@ -77,3 +80,6 @@ Title: Publications
 [21]: ../pdfs/domtree-techreport.pdf
 [22]: ../pdfs/stsp-techreport.pdf
 [23]: ../pdfs/tspan-techreport.pdf
+[24]: ../pdfs/slabel-techreport.pdf
+[25]: ../pdfs/MGCover-techreport.pdf
+[26]: ../pdfs/grsccb-techreport.pdf

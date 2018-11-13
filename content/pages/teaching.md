@@ -1,5 +1,13 @@
 Title: Teaching
 
+** WS 2018/2019 **
+
+* 050152 VU Computational Techniques (together with W. Gutjahr and S. Rath)
+
+** SS 2018 **
+
+* 186.812 VU Networks: Design and Analysis
+
 ** SS 2017 **
 
 * 186.812 VU Networks: Design and Analysis (together with M. Luipersbeck)
