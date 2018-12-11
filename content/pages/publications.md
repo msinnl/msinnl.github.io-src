@@ -45,6 +45,7 @@ Title: Publications
 
 **Submitted Articles**
 
+* E. Güney, M. Leitner, M. Ruthmair and M. Sinnl, Large-scale Influence Maximization via Maximal Covering Location, 2018 [(technical report)][27]
 * M. Sinnl, Algorithmic expedients for the S-labeling problem, 2018 [(technical report)][24]
 * E. Alvarez-Miranda and M. Sinnl, An exact solution framework for the multiple gradual cover location problem, 2018 [(technical report)][25]
 * E. Alvarez-Miranda, M. Goycoleea, I. Ljubic and M. Sinnl, The Generalized Reserve Set Covering Problem with Connectivity and Buffer Requirements, 2018 [(technical report)][26]
@@ -83,3 +84,4 @@ Title: Publications
 [24]: ../pdfs/slabel-techreport.pdf
 [25]: ../pdfs/MGCover-techreport.pdf
 [26]: ../pdfs/grsccb-techreport.pdf
+[27]: ../pdfs/imp-techreport.pdf
