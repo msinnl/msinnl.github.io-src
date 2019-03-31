@@ -16,6 +16,7 @@ This pages is an overview page, which links to various program codes (source and
 * [Minimum Cost Dominating Tree Problem][10]
 * [Upgrading Spanning Tree Problem][11]
 * [Tree t-spanner Problem][12]
+* [S-Labeling Problem][13]
 
 [1]: ../pages/stprbh.html
 [2]: ../pages/fl.html
@@ -29,3 +30,4 @@ This pages is an overview page, which links to various program codes (source and
 [10]: ../pages/domtree.html
 [11]: ../pages/umst.html
 [12]: ../pages/tspan.html
+[13]: ../pages/slabel.html
