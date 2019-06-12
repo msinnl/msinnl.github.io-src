@@ -2,6 +2,8 @@ Title: Publications
 
 **Journal Articles**
 
+*  M. Sinnl, Algorithmic expedients for the S-labeling problem, *Computers and Operations Research*, online first, 2019 [(technical report)][24]
+*  E. Alvarez-Miranda and M. Sinnl, An exact solution framework for the multiple gradual cover location problem, *Computers and Operations Research*, online first, 2019 [(technical report)][25]
 *  E. Alvarez-Miranda and M. Sinnl, A note on computational aspects of the Steiner traveling salesman problem, *International Transactions in Operations Research*, 2018, online first, [(technical report)][22]
 *  E. Alvarez-Miranda and M. Sinnl, Mixed-Integer Programming Approaches for the Tree t-spanner Problem, *Optimization Letters*, 2018, online first, [(technical report)][23]
 *  E. Alvarez-Miranda and M. Sinnl, A Branch-and-Cut Algorithm for the Maximum Covering Cycle Problem. *Annals of Operations Research*, 2018, online first. [(technical report)][20]
@@ -45,10 +47,10 @@ Title: Publications
 
 **Submitted Articles**
 
+* M. Sinnl, Mixed-Integer Programming Approaches for the Time-Constrained Maximal Covering Routing Problem, 2019 [(technical report)][28]
 * E. Güney, M. Leitner, M. Ruthmair and M. Sinnl, Large-scale Influence Maximization via Maximal Covering Location, 2018 [(technical report)][27]
-* M. Sinnl, Algorithmic expedients for the S-labeling problem, 2018 [(technical report)][24]
-* E. Alvarez-Miranda and M. Sinnl, An exact solution framework for the multiple gradual cover location problem, 2018 [(technical report)][25]
 * E. Alvarez-Miranda, M. Goycoleea, I. Ljubic and M. Sinnl, The Generalized Reserve Set Covering Problem with Connectivity and Buffer Requirements, 2018 [(technical report)][26]
+
 
 **PhD Thesis**
 
@@ -85,3 +87,4 @@ Title: Publications
 [25]: ../pdfs/MGCover-techreport.pdf
 [26]: ../pdfs/grsccb-techreport.pdf
 [27]: ../pdfs/imp-techreport.pdf
+[28]: ../pdfs/tcmcrp-techreport.pdf
