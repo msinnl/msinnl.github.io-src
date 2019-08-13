@@ -2,6 +2,7 @@ Title: Publications
 
 **Journal Articles**
 
+*  E. Alvarez-Miranda, M. Goycoleea, I. Ljubic and M. Sinnl, The Generalized Reserve Set Covering Problem with Connectivity and Buffer Requirements, *European Journal of Operational Research*, to appear, 2019 [(technical report)][26]
 *  M. Sinnl, Algorithmic expedients for the S-labeling problem, *Computers and Operations Research*, online first, 2019 [(technical report)][24]
 *  E. Alvarez-Miranda and M. Sinnl, An exact solution framework for the multiple gradual cover location problem, *Computers and Operations Research*, online first, 2019 [(technical report)][25]
 *  E. Alvarez-Miranda and M. Sinnl, A note on computational aspects of the Steiner traveling salesman problem, *International Transactions in Operations Research*, 2018, online first, [(technical report)][22]
@@ -47,9 +48,9 @@ Title: Publications
 
 **Submitted Articles**
 
+* M. Sinnl, A note on computational approaches for the antibandwidth problem, 2019 [(technical report)][29]
 * M. Sinnl, Mixed-Integer Programming Approaches for the Time-Constrained Maximal Covering Routing Problem, 2019 [(technical report)][28]
 * E. Güney, M. Leitner, M. Ruthmair and M. Sinnl, Large-scale Influence Maximization via Maximal Covering Location, 2018 [(technical report)][27]
-* E. Alvarez-Miranda, M. Goycoleea, I. Ljubic and M. Sinnl, The Generalized Reserve Set Covering Problem with Connectivity and Buffer Requirements, 2018 [(technical report)][26]
 
 
 **PhD Thesis**
@@ -88,3 +89,4 @@ Title: Publications
 [26]: ../pdfs/grsccb-techreport.pdf
 [27]: ../pdfs/imp-techreport.pdf
 [28]: ../pdfs/tcmcrp-techreport.pdf
+[29]: ../pdfs/abp-techreport.pdf
