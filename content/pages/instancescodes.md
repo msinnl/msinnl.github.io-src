@@ -18,6 +18,7 @@ This pages is an overview page, which links to various program codes (source and
 * [Tree t-spanner Problem][12]
 * [S-Labeling Problem][13]
 * [Time-Constrained Maximal Covering Routing Problem][14]
+* [Weighted Total Domination Problem][15]
 
 [1]: ../pages/stprbh.html
 [2]: ../pages/fl.html
@@ -33,3 +34,4 @@ This pages is an overview page, which links to various program codes (source and
 [12]: ../pages/tspan.html
 [13]: ../pages/slabel.html
 [14]: ../pages/tcmcrp.html
+[15]: ../pages/wtdp.html

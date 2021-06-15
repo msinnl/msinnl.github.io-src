@@ -12,5 +12,5 @@ by Markus Sinnl.
 
 To download the instances used in the paper, click [here][1]  
 
-[1]: https://drive.google.com/open?id=1dlxa5AarjKlLs-wd7xmwljwtQ1veOvd3
+[1]: https://drive.google.com/drive/folders/1nLi23k-huJc3R4VH4eN82Ejdc03CvexV?usp=sharing 
 [2]: ../pdfs/tcmcrp-techreport.pdf

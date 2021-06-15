@@ -2,14 +2,21 @@ Title: Publications
 
 **Journal Articles**
 
-*  E. Alvarez-Miranda, M. Goycoleea, I. Ljubic and M. Sinnl, The Generalized Reserve Set Covering Problem with Connectivity and Buffer Requirements, *European Journal of Operational Research*, to appear, 2019 [(technical report)][26]
-*  M. Sinnl, Algorithmic expedients for the S-labeling problem, *Computers and Operations Research*, online first, 2019 [(technical report)][24]
-*  E. Alvarez-Miranda and M. Sinnl, An exact solution framework for the multiple gradual cover location problem, *Computers and Operations Research*, online first, 2019 [(technical report)][25]
-*  E. Alvarez-Miranda and M. Sinnl, A note on computational aspects of the Steiner traveling salesman problem, *International Transactions in Operations Research*, 2018, online first, [(technical report)][22]
-*  E. Alvarez-Miranda and M. Sinnl, Mixed-Integer Programming Approaches for the Tree t-spanner Problem, *Optimization Letters*, 2018, online first, [(technical report)][23]
-*  E. Alvarez-Miranda and M. Sinnl, A Branch-and-Cut Algorithm for the Maximum Covering Cycle Problem. *Annals of Operations Research*, 2018, online first. [(technical report)][20]
-*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. *INFORMS Journal on Computing*, 2018, to appear. [(technical report)][10]
-*  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, An exact solution framework for the minimum cost dominating tree problem. *Optimization Letters*, 2018, online first [(technical report)][21] 
+* M. Sinnl, Mixed-Integer Programming Approaches for the Time-Constrained Maximal Covering Routing Problem, OR Spectrum, 2021 [(technical report)][28]
+* M. Sinnl, A note on computational approaches for the antibandwidth problem, Central European Journal of
+Operations Research, online first, 2020 [(technical report)][29]
+* M. Kahr, M. Leitner, M. Ruthmair and M. Sinnl, Benders decomposition for competitive influence maximization in (social) networks. *Omega - International Journal of Management Science*, 100, 2020
+* E. Güney, M. Leitner, M. Ruthmair and M. Sinnl, Lage-Scale Influence Maximization via Maximal Covering
+Location. *European Journal of Operational Research*, online first, 2020 [(technical report)][27]
+* E. Alvarez-Miranda and M. Sinnl, Exact and heuristic algorithms for the weighted total domination problem, *Computers and Operations Research*, online first, 2020 [(technical report)][30]
+*  E. Alvarez-Miranda, M. Goycoleea, I. Ljubic and M. Sinnl, The Generalized Reserve Set Covering Problem with Connectivity and Buffer Requirements, *European Journal of Operational Research*, 289(3):1013-1029, 2021 [(technical report)][26]
+*  M. Sinnl, Algorithmic expedients for the S-labeling problem, *Computers and Operations Research*, 108:201-212, 2019 [(technical report)][24]
+*  E. Alvarez-Miranda and M. Sinnl, An exact solution framework for the multiple gradual cover location problem, *Computers and Operations Research*, 108:92-96, 2019 [(technical report)][25]
+*  E. Alvarez-Miranda and M. Sinnl, A note on computational aspects of the Steiner traveling salesman problem, *International Transactions in Operations Research*, 26(4):1396-1401, 2018 [(technical report)][22]
+*  E. Alvarez-Miranda and M. Sinnl, Mixed-Integer Programming Approaches for the Tree t-spanner Problem, *Optimization Letters*, 13(7):1693-1709, 2019, [(technical report)][23]
+*  E. Alvarez-Miranda and M. Sinnl, A Branch-and-Cut Algorithm for the Maximum Covering Cycle Problem. *Annals of Operations Research*, 284(2):487-499, 2020. [(technical report)][20]
+*  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Interdiction Games and Monotonicity. *INFORMS Journal on Computing*, 31(2):390-410, 2019. [(technical report)][10]
+*  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, An exact solution framework for the minimum cost dominating tree problem. *Optimization Letters*, 12(7):1669-1681, 2018 [(technical report)][21] 
 *  R. Fritze, A. Graser and M. Sinnl, Combining spatial information and optimization for locating emergency medical service stations: A case study for Lower Austria, *International Journal of Medical Informatics*, 111:24-36, 2018
 *  M. Leitner, I. Ljubic, M. Luipersbeck and M. Sinnl, Decomposition methods for the two-stage stochastic Steiner tree problem. *Computational Optimization and Applications*, 69(3):713-752, 2017. [(technical report)][19]
 *  M. Fischetti, M. Monaci and M. Sinnl, A dynamic reformulation heuristic for Generalized Interdiction Problems. *European Journal of Operational Research*, 267(1):40-51, 2018, [(technical report)][15]
@@ -34,6 +41,9 @@ Title: Publications
 
 **Refereed Conference Proceedings**
 
+* D. An, S. Parragh, M. Sinnl and F. Tricoire, A LP Relaxation based Matheuristic for Multi-objective Integer Programming. *Proceedings of the 10th International Conference on Operations Research and Enterprise
+Systems (ICORES 2021)*
+* K. Fazekas, M. Sinnl, A. Biere, S. Parragh, Duplex Encoding of Staircase At-Most-One Constraints for the Antibandwidth Problem, Proceedings of CPAIOR 2020, LNCS, 2020
 *  M. Fischetti, I. Ljubic, M. Monaci and M. Sinnl, Intersection Cuts for Bilevel Optimization. *Proceedings of IPCO 2016*, LNCS, Volume 9682, 77-88, Springer, 2016 [(technical report)][18] 
 *  E. Alvarez-Miranda, M. Luipersbeck and M. Sinnl, Optimal Upgrading Schemes for Effective Shortest Paths in Networks. *Proceedings of CPAIOR 2016*, LNCS, Volume 9676, 406-420, Springer, 2016 [(technical report)][7] 
 *  F. Furini, I. Ljubic, and M. Sinnl, ILP and CP Formulations for the Lazy Bureaucrat Problem. *Proceedings of CPAIOR 2015*, LNCS, Volume 9075, 255-270, Springer, 2015
@@ -48,10 +58,13 @@ Title: Publications
 
 **Submitted Articles**
 
-* M. Sinnl, A note on computational approaches for the antibandwidth problem, 2019 [(technical report)][29]
-* M. Sinnl, Mixed-Integer Programming Approaches for the Time-Constrained Maximal Covering Routing Problem, 2019 [(technical report)][28]
-* E. Güney, M. Leitner, M. Ruthmair and M. Sinnl, Large-scale Influence Maximization via Maximal Covering Location, 2018 [(technical report)][27]
-
+* K. Taninmis, M. Sinnl. A branch-and-cut algorithm for submodular interdiction games
+* E. Gaar, M. Sinnl. Experiments with graph convolutional networks for solving the vertex
+p-center problem
+* M. Sinnl. Exact and heuristic algorithms for the maximum weighted submatrix coverage
+problem
+* F. Bökler, S. Parragh, M. Sinnl, F. Tricoire. An outer approximation algorithm for mul-
+tiobjective mixed-integer linear programming
 
 **PhD Thesis**
 
@@ -90,3 +103,4 @@ Title: Publications
 [27]: ../pdfs/imp-techreport.pdf
 [28]: ../pdfs/tcmcrp-techreport.pdf
 [29]: ../pdfs/abp-techreport.pdf
+[30]: ../pdfs/WTDP-techreport.pdf

@@ -45,13 +45,11 @@ MENUITEMS = (
         ('About', '/'),
         ('Publications', '/pages/publications.html'),
         ('Instances/Codes', '/pages/instancescodes.html'),
-        ('Activities', '/pages/activities.html'),
         ('Talks', '/pages/talks.html'),
-        ('Teaching', '/pages/teaching.html'),
         )
 
 
-EMAIL = 'markus.sinnl (at) univie.ac.at'
+EMAIL = 'markus.sinnl (at) jku.at'
 
 DEFAULT_PAGINATION = 10
 
