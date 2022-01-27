@@ -18,6 +18,6 @@ The other instances can be downloaded from the [homepage of B. Zey][3]
 To download a csv containing detailed results for each instance, please click [here][4]
 
 [1]: ../pdfs/sstp.pdf
-[2]: https://drive.google.com/open?id=0B1mYs4TT6IFMd3NpN0tIcmI4dVU
+[2]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMd3NpN0tIcmI4dVU?resourcekey=0-vMCRMKvEoYfMHvshRbQMLg&usp=sharing
 [3]: https://ls11-www.cs.tu-dortmund.de/staff/zey/sstp
-[4]: https://drive.google.com/open?id=0B1mYs4TT6IFMS1B0a1ZKYVZILWM
+[4]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMS1B0a1ZKYVZILWM?resourcekey=0-bRl8mTwcPNilGxQ1oCI6_g&usp=sharing

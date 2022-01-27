@@ -47,15 +47,15 @@ For the instance format, see below (or the file readme.md in the provided zipfil
 The format of the instances is following the format of the open-source solver [MibS][4], see also [here][5]
 
 [1]: http://homepage.univie.ac.at/markus.sinnl/wp-content/uploads/2015/11/data_for_MPB_paper.zip
-[3]: https://drive.google.com/open?id=0B1mYs4TT6IFMMGtBNVRZTWJjUjg
-[2]: https://drive.google.com/open?id=0B1mYs4TT6IFMbVNrOENEemVOZzQ 
+[3]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMMGtBNVRZTWJjUjg?resourcekey=0-zd4i4o2Cv_tD2AArrecblQ&usp=sharing
+[2]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMbVNrOENEemVOZzQ?resourcekey=0-kwIfnf3m9RJ_4yHQcBL_tw&usp=sharing
 [4]: https://github.com/tkralphs/MiBS
 [5]: http://coral.ise.lehigh.edu/data-sets/bilevel-instances/
-[6]: https://drive.google.com/open?id=0B1mYs4TT6IFMTEtCREc5b1E5azg
+[6]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMTEtCREc5b1E5azg?resourcekey=0-AlelaeLzIv3o7IV67xpSYw&usp=sharing
 [7]: ../pdfs/IPCO_techreport.pdf
 [8]: ../pdfs/secondbilevel-techreport.pdf
 [9]: ../pdfs/independentSystems-techreport.pdf
 [10]: ../pdfs/biheur-techreport.pdf
-[11]: https://drive.google.com/open?id=0B1mYs4TT6IFMMVRoUm5yaXBETE0
+[11]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMMVRoUm5yaXBETE0?resourcekey=0-nFfctjZNo2FuodDzQxuIgw&usp=sharing
 [12]: mailto:markus.sinnl@univie.ac.at?subject=[BILEVEL]%20License%20Key%20Request&cc=m.fischetti@gmail.com,ivana.ljubic@essec.edu,michele.monaci@unibo.it
 [13]: ../pdfs/MPBjournal-techreport.pdf

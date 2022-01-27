@@ -2,10 +2,11 @@ Title: About me
 URL:
 save_as: index.html
 
-Currently, I am a PostDoc at the [Institute of Production and Logistics Management][9] at the [Johannes Kepler University Linz][8].
+Currently, I am a PostDoc researcher at the [Institute of Production and Logistics Management][9] at the [Johannes Kepler University Linz][8].
+I am currently the principal investigator of the projects *Preventing the spread of epidemics in networks using integer programming* financed by the Austrian Science Fund (FWF) and *HEROpt - Solution algorithms for hierarchical optimization problems* financed by the Linz Institute of Technology. I was also the principal investigator of the project *OPTIMAI - Hybridisation of optimization and artificial intelligence techniques for managerial decision making* financed by the JKU Business School.
 
 Previously, I worked as a PostDoc at the [Department for Statistics and Operations Research][2], [Faculty of Business, Economics and Statistics] [3] at the [University of Vienna][2].
-There, I was part of the project [Network Optimization in Bioinformatics and Systems Biology][1]. I also worked as a researcher at [INRIA Lille-Nord Europe][6] in the team [INOCS][7].
+There, I was part of the project [Network Optimization in Bioinformatics and Systems Biology][1]. I also worked as a researcher at [INRIA Lille-Nord Europe][6] in the team [INOCS][7]. I obtained a PhD in Statistics and Operations Research at the University of Vienna. My PhD thesis was awarded with the dissertation award of the Austrian Society of Operations Research and the INFORMS Section on Location Analysis. 
 
 To download problem instances, program codes, results, etc., associated with papers I was involved in, please click [here][5] 
 

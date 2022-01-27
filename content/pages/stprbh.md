@@ -34,5 +34,5 @@ Please run **STPRBH --help** for details on the possible settings. See also **ru
 
 [1]: ../pdfs/STPRBH-techreport.pdf
 [2]: http://dimacs11.zib.de/contest/results/results.html
-[3]: https://drive.google.com/open?id=0B1mYs4TT6IFMSVM2MHc4eXJ4c2M
+[3]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMSVM2MHc4eXJ4c2M?resourcekey=0-HpbIfFlZM3FOgOM1yRMVlg&usp=sharing
 [4]: http://dimacs11.zib.de/instances/STPRBH-RANDOM.zip

@@ -12,5 +12,5 @@ by Eduardo Alvarez-Miranda, Martin Luipersbeck and Markus Sinnl.
 
 To download the instances used in the paper, click [here][1]  
 
-[1]: https://drive.google.com/open?id=1dlxa5AarjKlLs-wd7xmwljwtQ1veOvd3
+[1]: https://drive.google.com/drive/folders/1dlxa5AarjKlLs-wd7xmwljwtQ1veOvd3?usp=sharing
 [2]: ../pdfs/domtree-techreport.pdf

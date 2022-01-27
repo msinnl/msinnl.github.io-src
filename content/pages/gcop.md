@@ -13,4 +13,4 @@ by Eduardo Alvarez-Miranda, Martin Luipersbeck and Markus Sinnl.
 To download the instances based on TSPLib, please click [here][2]
 
 [1]: ../pdfs/pokepaper-techreport.pdf
-[2]: https://drive.google.com/open?id=0B1mYs4TT6IFMWl9ueDY5a2ZxR2c
+[2]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMWl9ueDY5a2ZxR2c?resourcekey=0-At66DZ7quLwKPcen7A4loA&usp=sharing

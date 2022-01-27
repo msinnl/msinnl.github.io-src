@@ -21,4 +21,4 @@ Next (stating with *f*) are the core nodes, with *nodeID* *openingCost*
 The nodeIDs for core nodes are from 0 to *nCoreNodes*, the remaining nodes are the customers.  
 The file is terminated by the string "s 0" in the last line.  
 
-[1]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMbkRiaFIyTENHYUE
+[1]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMbkRiaFIyTENHYUE?resourcekey=0-byq71ByR3OKMWb_Cfyyu6A

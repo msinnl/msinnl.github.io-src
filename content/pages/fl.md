@@ -37,5 +37,5 @@ Solutions are in the UflLlib format, i.e., for every customer, the facility it i
 [5]: http://homepage.univie.ac.at/markus.sinnl/wp-content/uploads/2015/05/qUFL10-80-lp.zip
 [6]: http://homepage.univie.ac.at/markus.sinnl/wp-content/uploads/2015/05/qUFL100-250-lp.zip
 [7]: ../pdfs/cfl-techreport.pdf
-[8]: https://drive.google.com/open?id=0B1mYs4TT6IFMS2JqSG40UVFUcFk
-[9]: 
+[8]: https://drive.google.com/drive/folders/0B1mYs4TT6IFMS2JqSG40UVFUcFk?resourcekey=0-7gWABRZh7ZHN7-qRUPLv0w&usp=sharing
+

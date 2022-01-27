@@ -12,5 +12,5 @@ by Markus Sinnl.
 
 To download the instances used in the paper, click [here][1]  
 
-[1]: https://drive.google.com/open?id=1C1KQssZIzyA10BkAnyo-AM7ZnpIQy2DH
+[1]: https://drive.google.com/drive/folders/1C1KQssZIzyA10BkAnyo-AM7ZnpIQy2DH?usp=sharing
 [2]: ../pdfs/slabel-techreport.pdf

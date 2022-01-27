@@ -2,6 +2,15 @@ Title: Talks
 
 **Talks**
 
+*   Interdiction games and submodularity, International Conference on Optimization and Decisions Science, Rome/online, Italy, 2021
+*   On solving fortification games via branch-and-cut, OR 2021, Bern/online, Switzerland, 2021
+*   OPTIMAI - Hybridisation of optimization and artificial intelligence techniques for managerial decision making, BUS Lecture, Linz/online, Austria, 2021
+*   Let MIP entertain you, LIT Lecture, Linz/online, Austria, 2021
+*   On an outer approximation algorithm for multiobjective integer programming, RAMOO 2020, Linz/online, Austria, 2020
+*   On computational aspects of the antibandwidth problem, Mathematical Insights into Algorithms for Optimization (MIAO) research group seminar at University of Copenhagen, Copenhagen/online, Denmark, 2020
+*   On algorithmic approaches for the S-labeling problem, OR 2019, Dresden, Germany, 2019
+*   Solving a real-world train routing and timetabling problem using a set-packing based heuristic, SBB Inspire Meeting, Bern, Switzerland, 2019
+*   On Bilevel Optimization Problems and Interdiction Problems, Invited seminar at Institute of Production and Logistics Management at JKU Linz, Linz, Austria, 2018
 *   A decomposition framework for the two-stage stochastic Steiner tree problem, IFORS 2017, Quebec City, Canada, 2017
 *   A general-purpose solution framework for mixed-integer bilevel linear problems, IMA 2017, Birmingham, UK, 2017
 *   Optimal Design of Nature Reserves Considering Connectivity and Buffer Zones, INOC 2017, Lisbon, Portugal, 2017	
@@ -24,6 +33,7 @@ Title: Talks
 
 **Poster presentations/Participation/etc**
 
+*   Data Science meets Optimization Workshop at International Joint Conferences on Artificial Intelligence, Montreal/online, Canada, 2021
 *   20th Combinatorial Optimization Workshop, Aussois, France, 2016
 *   Steiner Trees thinned out, 2015 Mixed Integer Programming Workshop, Chicago, USA, 2015 
 *   19th Combinatorial Optimization Workshop, Aussois, France, 2015 
