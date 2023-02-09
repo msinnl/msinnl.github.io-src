@@ -2,8 +2,11 @@ Title: Publications
 
 **Journal Articles**
 
-35.   E. Gaar, M. Sinnl, A scaleable projection-based branch-and-cut algorithm for the p-center problem, *European Journal of Operational Research*, 2022 [(technical report)][34] 
-34.   M. Sinnl, Exact and heuristic algorithms for the maximum weighted submatrix coverage problem, *European Journal of Operational Research*, 2021 
+38.   M. Sinnl, An iterative exact algorithm for the weighted fair sequences problem, *Computers and Operations Research*, 148, 2022 [(technical report)][35]
+37.   E. Gaar, M. Sinnl, A scaleable projection-based branch-and-cut algorithm for the p-center problem, *European Journal of Operational Research*, 303(1):78-98, 2022 [(technical report)][34] 
+36.  M. Leiter, I. Ljubic, M. Monaci, M. Sinnl, K. Taninmis, An exact method for fortification games, *European Journal of Operational Research*, 2022 [(technical report)][37]
+35.   K. Taninmis, M. Sinnl, A branch-and-cut algorithm for submodular interdiction games, *INFORMS Journal on Computing*, 34(5): 2634-2657, 2022 [(technical report)][32]
+34.   M. Sinnl, Exact and heuristic algorithms for the maximum weighted submatrix coverage problem, *European Journal of Operational Research*, 298(3): 821-833,2022 
 33.   M. Sinnl, Mixed-Integer Programming Approaches for the Time-Constrained Maximal Covering Routing Problem, *OR Spectrum*, 2021 [(technical report)][28]
 32.   M. Sinnl, A note on computational approaches for the antibandwidth problem, *Central European Journal of Operations Research*, 2020 [(technical report)][29]
 31.   M. Kahr, M. Leitner, M. Ruthmair and M. Sinnl, Benders decomposition for competitive influence maximization in (social) networks. *Omega - International Journal of Management Science*, 100, 2020
@@ -41,6 +44,7 @@ Title: Publications
 
 **Refereed Conference Proceedings**
 
+9. E. Gaar, J. Lee, I. Ljubic, M. Sinnl, K. Taninmis, SOCP-based disjunctive cuts for a class of integer nonlinear bilevel programs,  *Proceedings of IPCO 2022*, LNCS, Volume 13265, 262-276, [(technical report)][36]
 8. M. Chromy, M. Sinnl, On Solving the Minimum Common String Partition Problem by Decision Diagrams, *Proceedings of the 10th International Conference on Operations Research and Enterprise
 Systems (ICORES 2021)*, 2022
 7.  D. An, S. Parragh, M. Sinnl and F. Tricoire, A LP Relaxation based Matheuristic for Multi-objective Integer Programming, *Proceedings of the 10th International Conference on Operations Research and Enterprise
@@ -58,16 +62,13 @@ Systems (ICORES 2022)*, 2021
 2.  E. Gaar, M. Sinnl, Experiments with graph convolutional networks for solving the vertex p-center problem,  Accepted for presentation at the Data Science meets Optimization Workshop at International Joint Conferences on Artificial Intelligence, 2021 [(technical report)][31] 
 1.  M. Sinnl and I. Ljubic, A New Layered Graph Approach to Hop- and Diameter-constrained Spanning/Steiner Tree Problems in Graphs. Accepted for presentation at the Workshop of the 11th DIMACS implementation challenge, 2014
 0.  M. Fischetti, M. Leitner, M. Luipersbeck, I. Ljubic, M. Monaci, D. Salvagnin, M. Sinnl and M. Resch, Thinning Out Steiner Trees, Accepted for presentation at the Workshop of the 11th DIMACS implementation challenge, 2014
-{: reversed="reversed"}
 
 **Submitted Articles**
 
-* K. Taninmis, M. Sinnl, A branch-and-cut algorithm for submodular interdiction games [(technical report)][32] 
 * F. Bökler, S. Parragh, M. Sinnl, F. Tricoire, An outer approximation algorithm for multiobjective mixed-integer linear programming [(technical report)][33] 
-* M. Sinnl, An iterative exact algorithm for the weighted fair sequences problem [(technical report)][35] 
-* E. Gaar, J. Lee, I. Ljubic, M. Sinnl, K. Taninmis, SOCP-based disjunctive cuts for a class of integer nonlinear bilevel programs [(technical report)][36]
-* M. Leiter, I. Ljubic, M. Monaci, M. Sinnl, K. Taninmis, An exact method for fortification games [(technical report)][37]
 
+*  E. Gaar, M. Sinnl, Exact solution approaches for the discrete alpha-neighbor p-center problemm, [(technical report)][38]
+ 
 **PhD Thesis**
 
 *  M. Sinnl, Bi-objective Network Design, University of Vienna, Department of Statistics and Operations Research, August 2015. Supervised by I. Ljubic and I. Bomze
@@ -113,4 +114,4 @@ Systems (ICORES 2022)*, 2021
 [35]: https://arxiv.org/pdf/2108.03024.pdf
 [36]: https://arxiv.org/pdf/2110.05168.pdf
 [37]: https://arxiv.org/abs/2111.13400
-
+[38]: https://arxiv.org/pdf/2211.12908.pdf
